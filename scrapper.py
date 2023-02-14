@@ -38,4 +38,3 @@ def updateCheck(chaptersList, mangaName):
         print("new chapters!")
 
 updateCheck(chaptersList, mangaName)
-print(chaptersFunc(chaptersList))
